@@ -1,0 +1,43 @@
+{
+    "homepage": {
+        "chapters": "100",
+        "volunteers": "100",
+        "people_impacted": "100",
+        "student_projects": "100",
+        "announcement": "Hello world! This is a sample announcement. Have you seen our <a href='https://blog.ecomoco.co'>super cool blog</a> yet?"
+    },
+    "hq_leadership": [
+        {
+            "_id": "1",
+            "name": "Lumina Zhang",
+            "position": "Co-President"
+        },
+        {
+            "_id": "2",
+            "name": "Peter Boyko",
+            "position": "Co-President"
+        },
+        {
+            "_id": "3",
+            "name": "Anna Jhon",
+            "position": "Secretary"
+        }
+    ],
+    "national_leadership": [
+        {
+            "_id": "1",
+            "name": "Lumina Zhang",
+            "position": "Co-President"
+        },
+        {
+            "_id": "2",
+            "name": "Peter Boyko",
+            "position": "Co-President"
+        },
+        {
+            "_id": "3",
+            "name": "Anna Jhon",
+            "position": "Secretary"
+        }
+    ]
+}
