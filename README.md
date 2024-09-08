@@ -1,2 +1,0 @@
-# ecomoco-pg
-website
